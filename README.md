@@ -1,2 +1,13 @@
-# painel-ert-vivo
-Painel de Gestão de Acessos - Projeto ERT  Copiar descrição
+painel-ert-vivo/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── app.js
+│   ├── dashboard.js
+│   └── storage.js
+├── assets/
+│   ├── logo/
+│   └── icons/
+└── README.md
